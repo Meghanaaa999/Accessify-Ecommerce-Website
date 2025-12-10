@@ -25,10 +25,15 @@ It allows users to browse products, manage their cart, and shop with ease — wh
 ---
 
 ## 🚀 **How to Run**
-### 1️⃣ Install dependencies - npm install
-### 2️⃣ Start JSON-Server - npm run server
-### 3️⃣ Run the React App - npm run dev or npm start
+### Terminal 1:
+- cd "ecomm frontend/ecommerc"
+- npm install
+- npm run server
 
+### Terminal 2:
+- cd "ecomm frontend/ecommerc"
+- npm install
+- npm start
 ---
 ### 🎯 Purpose
 Accessify aims to provide a smooth and modern online shopping experience with easy product management.
